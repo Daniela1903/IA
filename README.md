@@ -1,3 +1,7 @@
+# Gestor de Tareas
+
+Este proyecto es una aplicación web de gestión de tareas
+
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 import mysql.connector
